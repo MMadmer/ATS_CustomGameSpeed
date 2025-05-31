@@ -42,7 +42,7 @@ Speed 5 = 10
 2. Extract archive into:
 
    ```
-   BepInEx/
+   BepInEx/plugins/CustomGameSpeed/
    ```
 3. Launch the game once to generate config
 4. (Optional) Edit `com.madmer.CustomGameSpeed.cfg` to your desired speeds

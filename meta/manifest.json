@@ -1,0 +1,8 @@
+﻿{
+  "name": "CustomGameSpeed",
+  "version_number": "1.0.0",
+  "website_url": "",
+  "description": "Leaves default Pause (x0) and Play (x1) buttons untouched. Replaces the next 3 speed buttons with customizable values (default: x3, x5, x10). Configure your own speeds via the generated .cfg file (use dot as decimal separator).",
+  "dependencies": ["BepInEx-BepInExPack-5.4.2100", "ATS_API_Devs-API-3.5.0"]
+}
+

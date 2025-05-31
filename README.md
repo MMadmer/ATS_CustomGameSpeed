@@ -39,10 +39,10 @@ Speed 5 = 10
 ## Installation
 
 1. Install [BepInEx 5](https://github.com/BepInEx/BepInEx/releases) for your game
-2. Place the compiled `CustomGameSpeed.dll` into:
+2. Extract archive into:
 
    ```
-   BepInEx/plugins/CustomGameSpeed/
+   BepInEx/
    ```
 3. Launch the game once to generate config
 4. (Optional) Edit `com.madmer.CustomGameSpeed.cfg` to your desired speeds
